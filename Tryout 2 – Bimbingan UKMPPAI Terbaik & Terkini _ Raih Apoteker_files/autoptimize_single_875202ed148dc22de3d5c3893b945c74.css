@@ -1,0 +1,1 @@
+@media print{body *{display:none !important}body:after{content:"You are not allowed to print this page!"}}
